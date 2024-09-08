@@ -72,4 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Author
 Yash Kayastha
+
 If you need any other modifications or have additional requirements, feel free to ask!
+
